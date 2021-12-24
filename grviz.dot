@@ -1,0 +1,7 @@
+digraph G {
+1 [shape="circle" label="1"];
+2 [shape="circle" label="2"];
+3 [shape="circle" label="3"];
+1->2 [label=" 3 "];
+2->3 [label=" 4 "];
+}
